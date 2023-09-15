@@ -1,0 +1,31 @@
+body{
+background-color: rgb(255, 240, 247);
+}
+h1{
+    font-size: 60px;
+    color: black(45, 5, 82);
+    font-family: monospace;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: blueviolet(210, 190, 14);
+    font-family: monospace;
+    text-align: center;
+}
+img {
+    width: 360px;
+    height: 450px;
+    margin-left: 200px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 800px;
+
+}
+.Item_lista_cabecalho{
+    padding-left: 30px;
+    list-style: none;
+    font-size: 30px;
+    color: black;
+}
