@@ -29,3 +29,11 @@ img {
     font-size: 30px;
     color: black;
 }
+.logo_cabecalho{
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 75px;
+}
+.cabecalho{
+    background-color: cornflowerblue;
+}
